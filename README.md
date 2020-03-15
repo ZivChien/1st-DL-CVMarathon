@@ -34,6 +34,7 @@
 
 ## 3. CNN 應用案例學習
 > 學習目前最常使用的 CNN 應用案例：YOLO 物件偵測實務完全上手
+### Object detection
 23. Object detection原理 `了解Object Detection出現的目的與基本設計原理`
 24. Object detection基本介紹、演進 `了解Object Detection一路發展下來，是如何演進與進步`
 25. [Region Proposal、IOU概念](https://github.com/ZivChien/1st-DL-CVMarathon/blob/master/homework/Day025_IOU_HW.ipynb) `IOU是貫穿Object Detection的一個重要觀念，了解如何計算IOU對了解Object Detection中許多重要步驟會很有幫助`
@@ -42,7 +43,7 @@
 28. [Non-Maximum Suppression (NMS)原理](https://github.com/ZivChien/1st-DL-CVMarathon/blob/master/homework/Day028_NMS_HW.ipynb) `所有的Object Detection模型都有Non Maximum Suppression的操作，了解其是如何運作的能幫助我們更認識Object Detection`
 29. [程式導讀、實作](https://github.com/ZivChien/1st-DL-CVMarathon/blob/master/homework/Day029_Build_SSD_VGG.ipynb) `了解如何搭建一個SSD模型`   
 
-
+### YOLO
 32.  [YOLO 簡介及算法理解](https://github.com/ZivChien/1st-DL-CVMarathon/blob/master/homework/Day032_yolo_prediction_HW.ipynb) `了解 YOLO 的基本原理`
 33. [YOLO 細節理解 - 網路輸出的後處理](https://github.com/ZivChien/1st-DL-CVMarathon/blob/master/homework/Day033_YOLO%2B%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3%2B-%2B%E7%B6%B2%E8%B7%AF%E8%BC%B8%E5%87%BA%E7%9A%84%E5%BE%8C%E8%99%95%E7%90%86_HW.ipynb) `理解網路輸出的後處理，執行nms的過程`
 34. [YOLO 細節理解 - 損失函數](https://github.com/ZivChien/1st-DL-CVMarathon/blob/master/homework/Day034.YOLO%2B%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3%2B-%2B%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8_HW.ipynb) `認識YOLO損失函數設計架構與定義`
